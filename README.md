@@ -58,11 +58,7 @@ pip install -r requirements.txt
 
 * Open LM Studio
 * Load model (e.g., google/gemma-3-1b)
-* Start local server at:
-
-
-http://127.0.0.1:1234
-
+* Start local server :
 
 ### 5. Run the app
 
