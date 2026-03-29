@@ -73,7 +73,7 @@ if st.button("Generate Resume"):
 
         try:
             response = requests.post(
-                "http://127.0.0.1:1234/v1/chat/completions",
+                API_KEY-your-secret-key,
                 json={
                     "model": "google/gemma-3-1b",
                     "messages": [
